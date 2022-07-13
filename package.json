@@ -28,7 +28,7 @@
   "dependencies": {
     "@actions/core": "^1.6.0",
     "@actions/github": "^5.0.0",
-    "node-fetch": "^2.6.6",
+    "node-fetch": "^3.2.8",
     "semver": "^7.3.5"
   },
   "devDependencies": {
